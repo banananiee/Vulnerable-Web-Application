@@ -17,7 +17,7 @@ pipeline {
                             -Dsonar.projectKey=OWASP \
                             -Dsonar.sources=. \
                             -Dsonar.host.url=http://sonarqube:9000 \
-                            -Dsonar.token=sqp_1c653d6ef1e450915d2040a7ec3260974a0976df"
+                            -Dsonar.token=sqp_af4c3c6c3b4addbda6f1ba03affa2a1b13ebaadc"
                     }
                 }
             }
